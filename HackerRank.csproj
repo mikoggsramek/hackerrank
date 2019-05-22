@@ -66,12 +66,16 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ProblemSolving\AVeryBigSum.cs" />
+    <Compile Include="ProblemSolving\BirthdayCakeCandles.cs" />
     <Compile Include="ProblemSolving\CompareTheTriplets.cs" />
     <Compile Include="Executor.cs" />
     <Compile Include="ProblemSolving\DiagonalDifference.cs" />
+    <Compile Include="ProblemSolving\MiniMaxSum.cs" />
     <Compile Include="ProblemSolving\PlusMinus.cs" />
     <Compile Include="ProblemSolving\SimpleArraySum.cs" />
     <Compile Include="ProblemSolving\Staircase.cs" />
+    <Compile Include="ProblemSolving\TimeConversion.cs" />
+    <Compile Include="Utility.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSHARP.Targets" />
   <ProjectExtensions>
