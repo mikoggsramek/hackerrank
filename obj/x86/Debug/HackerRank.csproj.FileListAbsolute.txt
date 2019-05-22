@@ -1,0 +1,6 @@
+M:\Game Dev\HackerRank\obj\x86\Debug\HackerRank.csprojAssemblyReference.cache
+M:\Game Dev\HackerRank\obj\x86\Debug\HackerRank.csproj.CoreCompileInputs.cache
+M:\Game Dev\HackerRank\bin\Debug\ConsoleApplication.exe
+M:\Game Dev\HackerRank\bin\Debug\ConsoleApplication.pdb
+M:\Game Dev\HackerRank\obj\x86\Debug\ConsoleApplication.exe
+M:\Game Dev\HackerRank\obj\x86\Debug\ConsoleApplication.pdb
